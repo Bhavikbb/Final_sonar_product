@@ -1,0 +1,74 @@
+
+ccom.infy.Product.Dto.SubscribedproductDTO#createEntity()Lcom/infy/Product/entity/Subscribedproduct;i
+_C:/Users/Arpit/Final_sonar_product/src/main/java/com/infy/Product/Dto/SubscribedproductDTO.java7 7(&"1*Ó
+1i
+_C:/Users/Arpit/Final_sonar_product/src/main/java/com/infy/Product/Dto/SubscribedproductDTO.java9 9(/ «
+i
+_C:/Users/Arpit/Final_sonar_product/src/main/java/com/infy/Product/Dto/SubscribedproductDTO.java9 9(-/
+%0)com.infy.Product.entity.Subscribedproduct")com.infy.Product.entity.Subscribedproduct‹
+Ÿ
+i
+_C:/Users/Arpit/Final_sonar_product/src/main/java/com/infy/Product/Dto/SubscribedproductDTO.java9 9(/
+%1"3com.infy.Product.entity.Subscribedproduct#<init>()V*1
+/
+%0)com.infy.Product.entity.Subscribedproductÿ
+’
+i
+_C:/Users/Arpit/Final_sonar_product/src/main/java/com/infy/Product/Dto/SubscribedproductDTO.java9 9(0/
+sp)com.infy.Product.entity.Subscribedproduct"__id*1
+/
+%0)com.infy.Product.entity.SubscribedproductÔÏ
+i
+_C:/Users/Arpit/Final_sonar_product/src/main/java/com/infy/Product/Dto/SubscribedproductDTO.java: :(!	
+%2int"7com.infy.Product.Dto.SubscribedproductDTO#getBuyerid()I*-+
+)com.infy.Product.Dto.SubscribedproductDTO2getBuyerid()ÉÄ
+i
+_C:/Users/Arpit/Final_sonar_product/src/main/java/com/infy/Product/Dto/SubscribedproductDTO.java: :("
+
+%3void"8com.infy.Product.entity.Subscribedproduct#setBuyerid(I)V*1
+/
+sp)com.infy.Product.entity.Subscribedproduct*
+	
+%2int2setBuyerid(I)ÌÍ
+i
+_C:/Users/Arpit/Final_sonar_product/src/main/java/com/infy/Product/Dto/SubscribedproductDTO.java; ;(	
+%4int"6com.infy.Product.Dto.SubscribedproductDTO#getProdid()I*-+
+)com.infy.Product.Dto.SubscribedproductDTO2getProdid()Å˛
+i
+_C:/Users/Arpit/Final_sonar_product/src/main/java/com/infy/Product/Dto/SubscribedproductDTO.java; ;( 
+
+%5void"7com.infy.Product.entity.Subscribedproduct#setProdid(I)V*1
+/
+sp)com.infy.Product.entity.Subscribedproduct*
+	
+%4int2setProdid(I)ÒÓ
+i
+_C:/Users/Arpit/Final_sonar_product/src/main/java/com/infy/Product/Dto/SubscribedproductDTO.java< <(#	
+%6int"8com.infy.Product.Dto.SubscribedproductDTO#getQuantity()I*-+
+)com.infy.Product.Dto.SubscribedproductDTO2getQuantity()ÖÇ
+i
+_C:/Users/Arpit/Final_sonar_product/src/main/java/com/infy/Product/Dto/SubscribedproductDTO.java< <($
+
+%7void"9com.infy.Product.entity.Subscribedproduct#setQuantity(I)V*1
+/
+sp)com.infy.Product.entity.Subscribedproduct*
+	
+%6int2setQuantity(I)ÎË
+i
+_C:/Users/Arpit/Final_sonar_product/src/main/java/com/infy/Product/Dto/SubscribedproductDTO.java= =(	
+%8int"5com.infy.Product.Dto.SubscribedproductDTO#getSubid()I*-+
+)com.infy.Product.Dto.SubscribedproductDTO2
+getSubid()ˇ¸
+i
+_C:/Users/Arpit/Final_sonar_product/src/main/java/com/infy/Product/Dto/SubscribedproductDTO.java= =(
+
+%9void"6com.infy.Product.entity.Subscribedproduct#setSubid(I)V*1
+/
+sp)com.infy.Product.entity.Subscribedproduct*
+	
+%8int2setSubid(I)"û
+i
+_C:/Users/Arpit/Final_sonar_product/src/main/java/com/infy/Product/Dto/SubscribedproductDTO.java> >(1
+/
+sp)com.infy.Product.entity.SubscribedproductB-+
+)com.infy.Product.Dto.SubscribedproductDTO

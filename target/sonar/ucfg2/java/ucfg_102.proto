@@ -1,0 +1,39 @@
+
+…com.infy.Product.controller.ProductController#getSubscriptionsDetails(Ljava/lang/Integer;)Lcom/infy/Product/Dto/SubscribedproductDTO;m
+cC:/Users/Arpit/Final_sonar_product/src/main/java/com/infy/Product/controller/ProductController.javat t(4"1*É
+1m
+cC:/Users/Arpit/Final_sonar_product/src/main/java/com/infy/Product/controller/ProductController.javau u(Ï
+Ì
+m
+cC:/Users/Arpit/Final_sonar_product/src/main/java/com/infy/Product/controller/ProductController.javau u(
+%0org.slf4j.Logger"__id*=*;/
+-com.infy.Product.controller.ProductController"
+loggerÔÑ
+m
+cC:/Users/Arpit/Final_sonar_product/src/main/java/com/infy/Product/controller/ProductController.javau u(F
+
+%1void"<org.slf4j.Logger#info(Ljava/lang/String;Ljava/lang/Object;)V*
+
+%0org.slf4j.Logger*20
+.fetching details of Product with product id {}*
+
+subidjava.lang.Integer2*info(Ljava/lang/String;Ljava/lang/Object;)î
+ë
+m
+cC:/Users/Arpit/Final_sonar_product/src/main/java/com/infy/Product/controller/ProductController.javav	 v(-
+%2'com.infy.Product.service.ProductService"__id*E*C/
+-com.infy.Product.controller.ProductController"
+productService•’
+m
+cC:/Users/Arpit/Final_sonar_product/src/main/java/com/infy/Product/controller/ProductController.javav	 v(0/
+%3)com.infy.Product.Dto.SubscribedproductDTO"ycom.infy.Product.service.ProductService#getDetailsBysubId(Ljava/lang/Integer;)Lcom/infy/Product/Dto/SubscribedproductDTO;*/
+-
+%2'com.infy.Product.service.ProductService*
+
+subidjava.lang.Integer2&getDetailsBysubId(Ljava/lang/Integer;)"¢
+m
+cC:/Users/Arpit/Final_sonar_product/src/main/java/com/infy/Product/controller/ProductController.javav v(11
+/
+%3)com.infy.Product.Dto.SubscribedproductDTO:
+subidjava.lang.IntegerB1/
+-com.infy.Product.controller.ProductController
